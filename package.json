@@ -1,0 +1,22 @@
+{
+  "name": "weather-data-final",
+  "version": "1.0.0",
+  "description": "Weather data project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
